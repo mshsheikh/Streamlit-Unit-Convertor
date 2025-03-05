@@ -56,6 +56,6 @@ streamlit run app.py
 5. Create a new Pull Request
 
 ## License 📄
-This project is MIT licensed. See [LICENSE](LICENSE) for details.
+This project is MIT licensed.
 
 Made with ❤️ by [Muhammad Salman Hussain](https://github.com/mshsheikh)
