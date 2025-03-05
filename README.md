@@ -12,8 +12,8 @@ An interactive web-based unit conversion tool with support for 20+ measurement c
 ## Getting Started 🚀
 1. **Clone the repo**:
 ```bash
-git clone https://github.com/your-username/streamlit-unit-converter.git
-cd streamlit-unit-converter
+git clone https://github.com/mshsheikh/Streamlit-Unit-Convertor.git
+cd Streamlit-Unit-Convertor
 ```
 
 2. **Install dependencies**:
